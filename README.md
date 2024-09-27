@@ -13,6 +13,20 @@ The Primary Source of Data used here is--------------
 1. Data Cleaning
 2. For Analysis
 3. For Data Visualization
-
-   SQL - Structured Query Language for Querying of Data
+   
+SQL - Structured Query Language for Querying of Data
 - Gifthub for Portfolio Building
+
+### Data Cleaning and Preparation
+In the initial phase of the Data Cleaning and Preparation,we prepare the following action;
+1.Data Loading and Inspection
+2.Handling Missing variabless
+3.Data Cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions
+
+
+
+
+### Data
