@@ -7,3 +7,12 @@
 
 ### Data Sources:
 The Primary Source of Data used here is--------------
+
+### Tools used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+1. Data Cleaning
+2. For Analysis
+3. For Data Visualization
+
+   SQL - Structured Query Language for Querying of Data
+- Gifthub for Portfolio Building
